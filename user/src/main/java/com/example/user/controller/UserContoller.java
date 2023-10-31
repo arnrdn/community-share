@@ -6,7 +6,6 @@ import com.example.user.entity.User;
 import com.example.user.exception.UserNotFoundException;
 import com.example.user.service.UserService;
 import lombok.RequiredArgsConstructor;
-import org.springframework.boot.actuate.web.exchanges.HttpExchange;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;

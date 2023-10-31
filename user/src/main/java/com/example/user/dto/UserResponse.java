@@ -1,7 +1,6 @@
 package com.example.user.dto;
 
 import com.example.user.entity.Post;
-import jakarta.persistence.Column;
 import lombok.*;
 
 import java.util.List;

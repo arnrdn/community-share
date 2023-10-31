@@ -2,8 +2,6 @@ package com.example.post.dto;
 
 
 import com.example.post.entity.PostType;
-import jakarta.persistence.Column;
-import jakarta.persistence.Lob;
 import lombok.AllArgsConstructor;
 import lombok.Getter;
 import lombok.NoArgsConstructor;

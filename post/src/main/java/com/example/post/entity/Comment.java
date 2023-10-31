@@ -1,7 +1,4 @@
 package com.example.post.entity;
-
-import jakarta.persistence.Column;
-import jakarta.persistence.Lob;
 import lombok.*;
 
 import java.time.LocalDateTime;
